@@ -2,7 +2,7 @@ This repository refers to the following paper:
 
 I. Palaia, A. Paraschiv, V. Debets, C. Storm, A. Šarić
 Durotaxis of passive nanoparticles on elastic membranes
-bioRxiv (2021)
+ACS Nano 15, 15794 (2021)
 https://doi.org/10.1101/2021.04.01.438065
 
 It contains code to compute the free energy of a passive nanoparticle adhering to a fluctuating, bendable membrane. 
