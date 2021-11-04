@@ -3,7 +3,7 @@ This repository refers to the following paper:
 I. Palaia, A. Paraschiv, V. Debets, C. Storm, A. Šarić
 Durotaxis of passive nanoparticles on elastic membranes
 ACS Nano 15, 15794 (2021)
-https://doi.org/10.1101/2021.04.01.438065
+https://doi.org/10.1021/acsnano.1c02777
 
 It contains code to compute the free energy of a passive nanoparticle adhering to a fluctuating, bendable membrane. 
 First, adhesion energy, bending energy, global stretching, and fluctuation entropy are defined as a function of wrapped area (see Methods section of the paper). 
